@@ -14,11 +14,17 @@ By using this repository, you acknowledge that:
 - You are solely responsible for any legal or ethical consequences.
 - The repository maintainers are not liable for any misuse.
 
+> [!TIP]
+> Developers can contact us in order to request their software removal (identification is required).
+
 Proceed with caution and ensure compliance with your local laws.
 
 > [!NOTE]
 > Jailbrek repo is not any kind of commercial organization and lonely relies on the people and multilple
 > maintainers of it.
+
+> [!IMPORTANT]
+> Visit our forum thread for the repo in order to contribute.
 <!--
 
 **Here are some ideas to get you started:**
