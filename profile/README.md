@@ -24,6 +24,11 @@ Proceed with caution and ensure compliance with your local laws.
 > **Important**  
 > Visit our forum thread for this repo to contribute or get more information.
 
+
+### Dsicussion & forum
+
+[Jailbrek Forum](https://t.me/Jailbrek_ios)
+[Website (under construction)](https://example.com)
 <!--
 
 **Here are some ideas to get you started:**
