@@ -46,6 +46,27 @@ Proceed with caution and ensure compliance with your local laws.
 > If you want to contact in business way or upload your tweak dont spam and write it all in one message.
 > All tweaks are hosted for absolutely free, so your work can be shared.
 
+### About This Repository
+
+The Jailbrek Repo is a community-driven project that is **free**, **open source**, and **non-commercial**.  
+While it is considered a part of our organizational property, it exists solely to serve the community and operates without any commercial interests. We rely entirely on contributions from our members and maintainers to keep the project active and up to date.
+
+> **Note**  
+> Jailbrek Repo is not a commercial organization and depends on support from the community.
+
+> **Important**  
+> Visit our forum thread for this repo to contribute or get more information.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
