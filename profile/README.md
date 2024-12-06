@@ -25,7 +25,7 @@ Proceed with caution and ensure compliance with your local laws.
 > Visit our forum thread for this repo to contribute or get more information.
 
 
-### Dsicussion & forum
+### Discussion & forum
 
 [Jailbrek Forum](https://t.me/Jailbrek_ios)
 
