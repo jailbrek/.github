@@ -29,7 +29,7 @@ Proceed with caution and ensure compliance with your local laws.
 
 [Jailbrek Forum](https://t.me/Jailbrek_ios)
 
-[Website (under construction)](https://jailbrek.github.io/pages/)
+[Website (under construction)](https://jailbrek.github.io/repo/)
 
 
 ## Maintainers
@@ -40,6 +40,7 @@ Proceed with caution and ensure compliance with your local laws.
 | IvanKoskov        | [GitHub](https://github.com/IvanKoskov) |
 | thearchymain      | [Contact](https://t.me/thearchymain)    |
 | ugol              | [Contact](https://t.me/ipabuy)          |
+
 
 > **Important**  
 > If you want to contact in business way or upload your tweak dont spam and write it all in one message.
