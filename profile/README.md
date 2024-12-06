@@ -1,4 +1,3 @@
-
 # Jailbrek iOS Community Repository
 
 **⚠️ Disclaimer:** This is a **pirated repository** and is not officially endorsed or supported. Use at your own risk.
@@ -14,17 +13,17 @@ By using this repository, you acknowledge that:
 - You are solely responsible for any legal or ethical consequences.
 - The repository maintainers are not liable for any misuse.
 
-> [!TIP]
-> Developers can contact us in order to request their software removal (identification is required).
+> **Tip**  
+> Developers can contact us to request the removal of their software (identification is required).
 
 Proceed with caution and ensure compliance with your local laws.
 
-> [!NOTE]
-> Jailbrek repo is not any kind of commercial organization and lonely relies on the people and multilple
-> maintainers of it.
+> **Note**  
+> Jailbrek Repo is not a commercial organization and relies entirely on community support and its multiple maintainers.
 
-> [!IMPORTANT]
-> Visit our forum thread for the repo in order to contribute.
+> **Important**  
+> Visit our forum thread for this repo to contribute or get more information.
+
 <!--
 
 **Here are some ideas to get you started:**
