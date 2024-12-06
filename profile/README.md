@@ -34,9 +34,9 @@ Proceed with caution and ensure compliance with your local laws.
 
 ## Maintainers
 
-| Name              | Profile Link                            |
+| Moderator         | Contact                                 |
 |-------------------|-----------------------------------------|
-| Maintainer 1      | [GitHub Profile](https://github.com/)   |
+| aka_arsu4ka       | [Telegram Profile](https://t.me/aka_arsu4ka)   |
 | Maintainer 2      | [GitHub Profile](https://github.com/)   |
 
 <!--
