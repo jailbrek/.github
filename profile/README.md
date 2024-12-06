@@ -16,6 +16,9 @@ By using this repository, you acknowledge that:
 
 Proceed with caution and ensure compliance with your local laws.
 
+> [!NOTE]
+> Jailbrek repo is not any kind of commercial organization and lonely relies on the people and multilple
+> maintainers of it.
 <!--
 
 **Here are some ideas to get you started:**
