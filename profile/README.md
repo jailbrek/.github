@@ -30,6 +30,15 @@ Proceed with caution and ensure compliance with your local laws.
 [Jailbrek Forum](https://t.me/Jailbrek_ios)
 
 [Website (under construction)](https://jailbrek.github.io/pages/)
+
+
+## Maintainers
+
+| Name              | Profile Link                            |
+|-------------------|-----------------------------------------|
+| Maintainer 1      | [GitHub Profile](https://github.com/)   |
+| Maintainer 2      | [GitHub Profile](https://github.com/)   |
+
 <!--
 
 **Here are some ideas to get you started:**
