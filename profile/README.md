@@ -37,8 +37,9 @@ Proceed with caution and ensure compliance with your local laws.
 | Moderator         | link                                    |
 |-------------------|-----------------------------------------|
 | aka_arsu4ka       | [Contact](https://t.me/aka_arsu4ka)     |
-| IvanKoskov        | [GitHub Profile](https://github.com/IvanKoskov)   |
-
+| IvanKoskov        | [GitHub](https://github.com/IvanKoskov) |
+| thearchymain      | [Contact](https://t.me/thearchymain)    |
+| ugol              | [Contact](https://t.me/ipabuy)          |
 <!--
 
 **Here are some ideas to get you started:**
