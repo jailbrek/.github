@@ -29,7 +29,7 @@ Proceed with caution and ensure compliance with your local laws.
 
 [Jailbrek Forum](https://t.me/Jailbrek_ios)
 
-[Website (under construction)](https://example.com)
+[Website (under construction)](https://jailbrek.github.io/pages/)
 <!--
 
 **Here are some ideas to get you started:**
