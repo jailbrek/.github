@@ -40,6 +40,14 @@ Proceed with caution and ensure compliance with your local laws.
 | IvanKoskov        | [GitHub](https://github.com/IvanKoskov) |
 | thearchymain      | [Contact](https://t.me/thearchymain)    |
 | ugol              | [Contact](https://t.me/ipabuy)          |
+
+> **Important**  
+> If you want to contact in business way or upload your tweak dont spam and write it all in one message.
+> All tweaks are hosted for absolutely free, so your work can be shared.
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
