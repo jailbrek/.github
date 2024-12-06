@@ -57,8 +57,14 @@ While it is considered a part of our organizational property, it exists solely t
 > **Important**  
 > Visit our forum thread for this repo to contribute or get more information.
 
+### Rootless & Rootful
 
+While the repository is generally about the software and tweaks that support majorly rootless only, we also planning to make rootful version, thread.
 
+### Filtering the content
+
+> **Warning**  
+> While our moderation and admins are trying to remove dangerous files and not allow them, we are not responsible for any damage of your device. You take full understanding of what you are doing.
 
 
 
