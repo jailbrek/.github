@@ -37,7 +37,7 @@ We are actively working to expand the repository’s support to cater to both co
 We encourage developers to contribute their tweaks to the repository. Here’s how you can get started:
 
 1. **Prepare Your Package**: Ensure it is well-tested and includes a clear description, compatibility information, and usage instructions.
-2. **Submit Your Tweak**: Contact any of the maintainers listed below with your package details.
+2. **Submit Your Tweak**: Contact any of the maintainers listed below with your package details or just go to our ADD repository that is very easy to follow and create the issue to submit your tweak.
 3. **Community Moderation**: Submitted tweaks will be reviewed for safety and compatibility. Dangerous or malicious files will be removed.
 
 > **Important**: All tweaks are hosted **for free** to promote accessibility and sharing within the community. Spamming the maintainers will not expedite your submission process—please provide all necessary details in a single message.
