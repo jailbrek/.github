@@ -84,7 +84,7 @@ Contributions from the community are essential to keep the project thriving. Whe
 
 ---
 
-## Repository Goals
+## Navigate
 
 In order to go to different sections just open all repositories of "Jailbrek". You will see everything related to it.
 
