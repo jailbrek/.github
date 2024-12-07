@@ -84,6 +84,15 @@ Contributions from the community are essential to keep the project thriving. Whe
 
 ---
 
+## Repository Goals
+
+In order to go to different sections just open all repositories of "Jailbrek". You will see everything related to it.
+
+
+
+
+---
+
 ## Final Notes
 
 We aim to build a vibrant and supportive ecosystem for the jailbreak community, fostering the free exchange of knowledge, tools, and creativity. Join us in creating something extraordinary!
