@@ -2,7 +2,7 @@
 
 **⚠️ Disclaimer:** This is a **pirated repository** and is not officially endorsed or supported. Use at your own risk.
 
-This repository is managed by the community of the [Jailbrek iOS Telegram Forum](https://t.me/Jailbrek_ios).  
+This repository is managed by the community of the [IOS Jailbreak dedicated Forum](https://t.me/Jailbrek_ios).  
 All packages available here are distributed for public accessibility, fostering collaboration and sharing within the jailbreak community.
 
 ---
@@ -11,9 +11,13 @@ All packages available here are distributed for public accessibility, fostering 
 
 The **Jailbrek Repo** is a **community-driven**, **non-commercial**, and **free** project aimed at providing a centralized platform for distributing tweaks, tools, and packages for jailbroken iOS devices.  
 It is maintained entirely by volunteers from the community, ensuring accessibility and transparency for all users.
+By using this repository, you acknowledge that:
 
 While the repository is considered part of our organizational property, it serves solely to benefit the community.  
 We operate without commercial interests, relying on contributions from members and maintainers to keep it active and up-to-date.
+
+> **Tip**  
+> Developers can contact us to request the removal of their software (identification is required).
 
 ---
 
