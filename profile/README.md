@@ -3,68 +3,86 @@
 **⚠️ Disclaimer:** This is a **pirated repository** and is not officially endorsed or supported. Use at your own risk.
 
 This repository is managed by the community of the [Jailbrek iOS Telegram Forum](https://t.me/Jailbrek_ios).  
-All packages available here are distributed for public accessibility.
+All packages available here are distributed for public accessibility, fostering collaboration and sharing within the jailbreak community.
 
-### Important Notice
+---
 
-The contents of this repository may violate copyright laws or the terms of service of the respective software providers.  
-By using this repository, you acknowledge that:
+## About the Repository
+
+The **Jailbrek Repo** is a **community-driven**, **non-commercial**, and **free** project aimed at providing a centralized platform for distributing tweaks, tools, and packages for jailbroken iOS devices.  
+It is maintained entirely by volunteers from the community, ensuring accessibility and transparency for all users.
+
+While the repository is considered part of our organizational property, it serves solely to benefit the community.  
+We operate without commercial interests, relying on contributions from members and maintainers to keep it active and up-to-date.
+
+---
+
+## Rootless & Rootful Support
+
+This repository is designed to support both **rootless** and **rootful** tweaks, ensuring compatibility with various jailbreak configurations. Developers are welcome to share their tweaks regardless of the jailbreak method they target.
+
+- **Rootless Tweaks**: Focused on modern jailbreaks that prioritize security and system integrity.
+- **Rootful Tweaks**: Target traditional jailbreak setups with full root access.
+
+We are actively working to expand the repository’s support to cater to both configurations seamlessly.
+
+---
+
+## Sharing Your Work
+
+We encourage developers to contribute their tweaks to the repository. Here’s how you can get started:
+
+1. **Prepare Your Package**: Ensure it is well-tested and includes a clear description, compatibility information, and usage instructions.
+2. **Submit Your Tweak**: Contact any of the maintainers listed below with your package details.
+3. **Community Moderation**: Submitted tweaks will be reviewed for safety and compatibility. Dangerous or malicious files will be removed.
+
+> **Important**: All tweaks are hosted **for free** to promote accessibility and sharing within the community. Spamming the maintainers will not expedite your submission process—please provide all necessary details in a single message.
+
+---
+
+## Important Notices
+
+The contents of this repository may violate copyright laws or the terms of service of respective software providers. By using this repository, you acknowledge:
 
 - You are solely responsible for any legal or ethical consequences.
-- The repository maintainers are not liable for any misuse.
+- The maintainers are not liable for any misuse.
+- Developers can request the removal of their software (identification required).
 
-> **Tip**  
-> Developers can contact us to request the removal of their software (identification is required).
+> **Warning**: Although our moderation team strives to filter out harmful files, we cannot guarantee complete safety. By using this repository, you assume full responsibility for understanding and managing any potential risks.
 
-Proceed with caution and ensure compliance with your local laws.
+---
 
-> **Note**  
-> Jailbrek Repo is not a commercial organization and relies entirely on community support and its multiple maintainers.
+## Contribute & Stay Updated
 
-> **Important**  
-> Visit our forum thread for this repo to contribute or get more information.
+- **Telegram Forum**: [Join Here](https://t.me/Jailbrek_ios)  
+- **Website** (Under Construction): [Visit Here](https://jailbrek.github.io/repo/)
 
+Contributions from the community are essential to keep the project thriving. Whether you’re a developer, designer, or an enthusiast, there’s always room for collaboration.
 
-### Discussion & forum
-
-[Jailbrek Forum](https://t.me/Jailbrek_ios)
-
-[Website (under construction)](https://jailbrek.github.io/repo/)
-
+---
 
 ## Maintainers
 
-| Moderator         | link                                    |
-|-------------------|-----------------------------------------|
-| aka_arsu4ka       | [Contact](https://t.me/aka_arsu4ka)     |
+| Moderator         | Contact/Link                             |
+|-------------------|------------------------------------------|
+| aka_arsu4ka       | [Telegram](https://t.me/aka_arsu4ka)    |
 | IvanKoskov        | [GitHub](https://github.com/IvanKoskov) |
-| thearchymain      | [Contact](https://t.me/thearchymain)    |
-| ugol              | [Contact](https://t.me/ipabuy)          |
+| thearchymain      | [Telegram](https://t.me/thearchymain)   |
+| ugol              | [Telegram](https://t.me/ipabuy)         |
 
+---
 
-> **Important**  
-> If you want to contact in business way or upload your tweak dont spam and write it all in one message.
-> All tweaks are hosted for absolutely free, so your work can be shared.
+## Repository Goals
 
-### About This Repository
+- **Community-Managed**: Decisions and updates are made collaboratively by volunteers.
+- **Open Access**: All tweaks are freely accessible without paywalls or restrictions.
+- **Transparency**: No commercial motives—entirely driven by community support.
 
-The Jailbrek Repo is a community-driven project that is **free**, **open source**, and **non-commercial**.  
-While it is considered a part of our organizational property, it exists solely to serve the community and operates without any commercial interests. We rely entirely on contributions from our members and maintainers to keep the project active and up to date.
+---
 
-> **Note**  
-> Jailbrek Repo is not a commercial organization and depends on support from the community.
+## Final Notes
 
-> **Important**  
-> Visit our forum thread for this repo to contribute or get more information.
-
-### Rootless & Rootful
-
-While the repository is generally about the software and tweaks that support majorly rootless only, we also planning to make rootful version, thread.
-
-### Filtering the content
-
-> **Warning**  
-> While our moderation and admins are trying to remove dangerous files and not allow them, we are not responsible for any damage of your device. You take full understanding of what you are doing.
+We aim to build a vibrant and supportive ecosystem for the jailbreak community, fostering the free exchange of knowledge, tools, and creativity. Join us in creating something extraordinary!
 
 
 
